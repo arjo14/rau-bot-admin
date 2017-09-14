@@ -1,0 +1,8 @@
+admin\impl\TestImpl.class
+bot\Main.class
+bot\connection\ConnectionRAU.class
+admin\dao\TestDAO.class
+admin\controller\MainController.class
+bot\model\Schedule.class
+bot\botRau\RAUAssistant.class
+admin\dto\DayOffDto.class

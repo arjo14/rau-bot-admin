@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Rau-bot:war">
+    <output-path>$PROJECT_DIR$/../Rau-bot/out/artifacts/Rau_bot_war</output-path>
+    <root id="archive" name="Rau-bot_war.war">
+      <element id="artifact" artifact-name="Rau-bot:war exploded" />
+    </root>
+  </artifact>
+</component>
