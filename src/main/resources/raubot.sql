@@ -1,7 +1,7 @@
-create database rauBot;
 
 DROP TABLE IF EXISTS dayoff;
 DROP TABLE IF EXISTS schedule;
+DROP TABLE IF EXISTS userEntity;
 DROP TABLE IF EXISTS `group`;
 DROP TABLE IF EXISTS department;
 DROP TABLE IF EXISTS institute;
@@ -88,6 +88,16 @@ CREATE TABLE `DayOff` (
   PRIMARY KEY (`id`)
 );
 
+
+CREATE TABLE `User` (
+  `id` INT NOT NULL AUTO_INCREMENT,
+  `name` varchar(64) NOT NULL,
+  `groupId` INT NOT NULL,
+  `chatId` INT,
+  PRIMARY KEY (`id`)
+);
+
+
 ALTER TABLE `Department` ADD CONSTRAINT `Department_fk0` FOREIGN KEY (`instituteId`) REFERENCES `Institute`(`id`);
 
 ALTER TABLE `Group` ADD CONSTRAINT `Group_fk0` FOREIGN KEY (`deptId`) REFERENCES `Department`(`id`);
@@ -105,6 +115,8 @@ ALTER TABLE `Schedule` ADD CONSTRAINT `Schedule_fk4` FOREIGN KEY (`weekDay`) REF
 ALTER TABLE `Schedule` ADD CONSTRAINT `Schedule_fk5` FOREIGN KEY (`roomId`) REFERENCES `Room`(`id`);
 
 ALTER TABLE `Schedule` ADD CONSTRAINT `Schedule_fk6` FOREIGN KEY (`lessonType`) REFERENCES `LessonType`(`id`);
+
+ALTER TABLE `User` ADD CONSTRAINT `User_fk0` FOREIGN KEY (`groupId`) REFERENCES `Group`(`id`);
 
 insert into institute (name) values('ИМВТ');
 insert into institute (name) values('ИНЭКБИЗ');
@@ -195,5 +207,9 @@ insert into `group` (deptId,groupNum) values(1,2);
 insert into `group` (deptId,groupNum) values(1,3);
 insert into `group` (deptId,groupNum) values(1,4);
 insert into `group` (deptId,groupNum) values(1,5);
+
+
+
+insert into `userEntity` (name,groupId) values('John Vahanyan',3);
 
 
