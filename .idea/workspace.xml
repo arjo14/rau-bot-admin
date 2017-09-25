@@ -7,23 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a205b64d-192d-4d54-9fac-01853ea07c7c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Rau-bot/src/main/java/bot/model/entity/ScheduleEntity.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Rau-bot/src/main/java/admin/controller/MainController.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Rau-bot/src/main/java/bot/model/Schedule.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Rau-bot/target/classes/admin/controller/MainController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Rau-bot/target/classes/admin/dao/TestDAO.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Rau-bot/target/classes/admin/dto/DayOffDto.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Rau-bot/target/classes/admin/impl/TestImpl.class" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../Rau-bot/target/classes/bot/botRau/RAUAssistant.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Rau-bot/target/classes/bot/model/Schedule.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Rau-bot/.idea/dataSources/5f6e12c3-faaa-43e5-8273-bcf4b15390bd.xml" afterPath="$PROJECT_DIR$/../Rau-bot/.idea/dataSources/5f6e12c3-faaa-43e5-8273-bcf4b15390bd.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Rau-bot/.idea/dictionaries/John_Smith.xml" afterPath="$PROJECT_DIR$/../Rau-bot/.idea/dictionaries/John_Smith.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Rau-bot/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Rau-bot/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Rau-bot/src/main/java/bot/botRau/RAUAssistant.java" afterPath="$PROJECT_DIR$/../Rau-bot/src/main/java/bot/botRau/RAUAssistant.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Rau-bot/src/main/resources/Spring-context.xml" afterPath="$PROJECT_DIR$/../Rau-bot/src/main/resources/Spring-context.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Rau-bot/src/main/resources/raubot.sql" afterPath="$PROJECT_DIR$/../Rau-bot/src/main/resources/raubot.sql" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Rau-bot/target/classes/Spring-context.xml" afterPath="$PROJECT_DIR$/../Rau-bot/target/classes/Spring-context.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Rau-bot/target/classes/raubot.sql" afterPath="$PROJECT_DIR$/../Rau-bot/target/classes/raubot.sql" />
     </list>
     <ignored path="$PROJECT_DIR$/../Rau-bot/out/" />
     <ignored path="$PROJECT_DIR$/../Rau-bot/target/" />
@@ -105,30 +91,26 @@
       <file leaf-file-name="RAUAssistant.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../Rau-bot/src/main/java/bot/botRau/RAUAssistant.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="29" column="36" lean-forward="false" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
+            <state relative-caret-position="184">
+              <caret line="102" column="33" lean-forward="false" selection-start-line="102" selection-start-column="33" selection-end-line="102" selection-end-column="33" />
               <folding>
-                <element signature="e#3434#3462#0" expanded="true" />
-                <element signature="e#3536#3558#0" expanded="true" />
-                <element signature="e#8814#8842#0" expanded="true" />
-                <element signature="e#8920#8942#0" expanded="true" />
-                <element signature="e#12029#12030#0" expanded="true" />
-                <element signature="e#12061#12062#0" expanded="true" />
-                <element signature="e#12110#12111#0" expanded="true" />
-                <element signature="e#12180#12181#0" expanded="true" />
-                <marker date="1505491665146" expanded="true" signature="2332:2392" ph="UPDATE user " />
-                <marker date="1505491665146" expanded="true" signature="3169:3182" ph="SELECT * FRO... " />
-                <marker date="1505491665146" expanded="true" signature="3169:3192" ph="SELECT * FRO... user" />
-                <marker date="1505491665146" expanded="true" signature="6055:6073" ph="SELECT * FRO... user" />
-                <marker date="1505491665146" expanded="true" signature="6055:6079" ph="SELECT * FRO... user" />
-                <marker date="1505491665146" expanded="true" signature="6055:6087" ph="SELECT * FRO... user" />
-                <marker date="1505491665146" expanded="true" signature="6460:6491" ph="SELECT * FRO... user" />
-                <marker date="1505491665146" expanded="true" signature="6460:6508" ph="SELECT * FRO... user" />
-                <marker date="1505491665146" expanded="true" signature="7293:7638" ph="SELECT u.nam... institute" />
-                <marker date="1505491665146" expanded="true" signature="7293:7694" ph="SELECT u.nam... user" />
-                <marker date="1505491665146" expanded="true" signature="7293:7696" ph="SELECT u.nam... user" />
-                <marker date="1505491665146" expanded="true" signature="7293:7713" ph="SELECT u.nam... user" />
-                <marker date="1505491665146" expanded="true" signature="10836:10896" ph="UPDATE user " />
+                <element signature="e#3710#3738#0" expanded="true" />
+                <element signature="e#3812#3834#0" expanded="true" />
+                <element signature="e#9267#9295#0" expanded="true" />
+                <element signature="e#9373#9395#0" expanded="true" />
+                <marker date="1506009963631" expanded="true" signature="2608:2668" ph="UPDATE user " />
+                <marker date="1506009963631" expanded="true" signature="3445:3458" ph="SELECT * FRO... " />
+                <marker date="1506009963631" expanded="true" signature="3445:3468" ph="SELECT * FRO... user" />
+                <marker date="1506009963631" expanded="true" signature="6508:6526" ph="SELECT * FRO... user" />
+                <marker date="1506009963631" expanded="true" signature="6508:6532" ph="SELECT * FRO... user" />
+                <marker date="1506009963631" expanded="true" signature="6508:6540" ph="SELECT * FRO... user" />
+                <marker date="1506009963631" expanded="true" signature="6913:6944" ph="SELECT * FRO... user" />
+                <marker date="1506009963631" expanded="true" signature="6913:6961" ph="SELECT * FRO... user" />
+                <marker date="1506009963631" expanded="true" signature="7746:8091" ph="SELECT u.nam... institute" />
+                <marker date="1506009963631" expanded="true" signature="7746:8147" ph="SELECT u.nam... user" />
+                <marker date="1506009963631" expanded="true" signature="7746:8149" ph="SELECT u.nam... user" />
+                <marker date="1506009963631" expanded="true" signature="7746:8166" ph="SELECT u.nam... user" />
+                <marker date="1506009963631" expanded="true" signature="11289:11349" ph="UPDATE user " />
               </folding>
             </state>
           </provider>
@@ -137,29 +119,29 @@
       <file leaf-file-name="UserDto.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Rau-bot/src/main/java/bot/model/dto/UserDto.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state relative-caret-position="187">
+              <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
               <folding>
-                <element signature="e#1127#1128#0" expanded="true" />
-                <element signature="e#1154#1155#0" expanded="true" />
-                <element signature="e#1194#1195#0" expanded="true" />
-                <element signature="e#1226#1227#0" expanded="true" />
-                <element signature="e#1262#1263#0" expanded="true" />
-                <element signature="e#1294#1295#0" expanded="true" />
-                <element signature="e#1344#1345#0" expanded="true" />
-                <element signature="e#1386#1387#0" expanded="true" />
-                <element signature="e#1423#1424#0" expanded="true" />
-                <element signature="e#1456#1457#0" expanded="true" />
-                <element signature="e#1508#1509#0" expanded="true" />
-                <element signature="e#1552#1553#0" expanded="true" />
-                <element signature="e#1585#1586#0" expanded="true" />
-                <element signature="e#1613#1614#0" expanded="true" />
-                <element signature="e#1656#1657#0" expanded="true" />
-                <element signature="e#1690#1691#0" expanded="true" />
-                <element signature="e#1734#1735#0" expanded="true" />
-                <element signature="e#1774#1775#0" expanded="true" />
-                <element signature="e#1840#1841#0" expanded="true" />
-                <element signature="e#1898#1899#0" expanded="true" />
+                <element signature="e#1157#1158#0" expanded="true" />
+                <element signature="e#1184#1185#0" expanded="true" />
+                <element signature="e#1224#1225#0" expanded="true" />
+                <element signature="e#1256#1257#0" expanded="true" />
+                <element signature="e#1292#1293#0" expanded="true" />
+                <element signature="e#1324#1325#0" expanded="true" />
+                <element signature="e#1374#1375#0" expanded="true" />
+                <element signature="e#1416#1417#0" expanded="true" />
+                <element signature="e#1453#1454#0" expanded="true" />
+                <element signature="e#1486#1487#0" expanded="true" />
+                <element signature="e#1538#1539#0" expanded="true" />
+                <element signature="e#1582#1583#0" expanded="true" />
+                <element signature="e#1615#1616#0" expanded="true" />
+                <element signature="e#1643#1644#0" expanded="true" />
+                <element signature="e#1686#1687#0" expanded="true" />
+                <element signature="e#1720#1721#0" expanded="true" />
+                <element signature="e#1764#1765#0" expanded="true" />
+                <element signature="e#1804#1805#0" expanded="true" />
+                <element signature="e#1870#1871#0" expanded="true" />
+                <element signature="e#1928#1929#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -177,8 +159,8 @@
       <file leaf-file-name="raubot.sql" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Rau-bot/src/main/resources/raubot.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3145">
-              <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="28" />
+            <state relative-caret-position="68">
+              <caret line="4" column="21" lean-forward="false" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -299,7 +281,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -323,8 +305,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -414,7 +395,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -573,20 +555,21 @@
       <option name="presentableId" value="Default" />
       <updated>1505212690339</updated>
       <workItem from="1505212693299" duration="3951000" />
-      <workItem from="1505312307748" duration="37390000" />
+      <workItem from="1505312307748" duration="38096000" />
+      <workItem from="1506009687863" duration="864000" />
+      <workItem from="1506082840555" duration="599000" />
+      <workItem from="1506090013056" duration="1162000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41341000" />
+    <option name="totallyTimeSpent" value="44672000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -594,30 +577,31 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39910814" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39910814" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25053304" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2585288" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="JavaEE:App" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="JavaEE:App" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -675,19 +659,19 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/../Rau-bot/src/main/java/bot/botRau/RAUAssistant.java</url>
-          <line>41</line>
+          <line>42</line>
           <properties />
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/../Rau-bot/src/main/java/bot/botRau/RAUAssistant.java</url>
-          <line>82</line>
+          <line>89</line>
           <properties />
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/../Rau-bot/src/main/java/bot/botRau/RAUAssistant.java</url>
-          <line>72</line>
+          <line>79</line>
           <properties />
           <option name="timeStamp" value="19" />
         </line-breakpoint>
@@ -697,6 +681,187 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../Rau-bot/src/main/java/bot/model/dto/UserDto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="e#1157#1158#0" expanded="true" />
+            <element signature="e#1184#1185#0" expanded="true" />
+            <element signature="e#1224#1225#0" expanded="true" />
+            <element signature="e#1256#1257#0" expanded="true" />
+            <element signature="e#1292#1293#0" expanded="true" />
+            <element signature="e#1324#1325#0" expanded="true" />
+            <element signature="e#1374#1375#0" expanded="true" />
+            <element signature="e#1416#1417#0" expanded="true" />
+            <element signature="e#1453#1454#0" expanded="true" />
+            <element signature="e#1486#1487#0" expanded="true" />
+            <element signature="e#1538#1539#0" expanded="true" />
+            <element signature="e#1582#1583#0" expanded="true" />
+            <element signature="e#1615#1616#0" expanded="true" />
+            <element signature="e#1643#1644#0" expanded="true" />
+            <element signature="e#1686#1687#0" expanded="true" />
+            <element signature="e#1720#1721#0" expanded="true" />
+            <element signature="e#1764#1765#0" expanded="true" />
+            <element signature="e#1804#1805#0" expanded="true" />
+            <element signature="e#1870#1871#0" expanded="true" />
+            <element signature="e#1928#1929#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/8bce2d89/5f6e12c3-faaa-43e5-8273-bcf4b15390bd/raubot.user">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Rau-bot/src/main/resources/raubot.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="21" lean-forward="false" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Rau-bot/src/main/java/bot/model/entity/UserEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Rau-bot/src/main/java/bot/botRau/RAUAssistant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1462">
+          <caret line="102" column="33" lean-forward="true" selection-start-line="102" selection-start-column="33" selection-end-line="102" selection-end-column="33" />
+          <folding>
+            <element signature="e#3710#3738#0" expanded="true" />
+            <element signature="e#3812#3834#0" expanded="true" />
+            <element signature="e#9267#9295#0" expanded="true" />
+            <element signature="e#9373#9395#0" expanded="true" />
+            <marker date="1506009963631" expanded="true" signature="2608:2668" ph="UPDATE user " />
+            <marker date="1506009963631" expanded="true" signature="3445:3458" ph="SELECT * FRO... " />
+            <marker date="1506009963631" expanded="true" signature="3445:3468" ph="SELECT * FRO... user" />
+            <marker date="1506009963631" expanded="true" signature="6508:6526" ph="SELECT * FRO... user" />
+            <marker date="1506009963631" expanded="true" signature="6508:6532" ph="SELECT * FRO... user" />
+            <marker date="1506009963631" expanded="true" signature="6508:6540" ph="SELECT * FRO... user" />
+            <marker date="1506009963631" expanded="true" signature="6913:6944" ph="SELECT * FRO... user" />
+            <marker date="1506009963631" expanded="true" signature="6913:6961" ph="SELECT * FRO... user" />
+            <marker date="1506009963631" expanded="true" signature="7746:8091" ph="SELECT u.nam... institute" />
+            <marker date="1506009963631" expanded="true" signature="7746:8147" ph="SELECT u.nam... user" />
+            <marker date="1506009963631" expanded="true" signature="7746:8149" ph="SELECT u.nam... user" />
+            <marker date="1506009963631" expanded="true" signature="7746:8166" ph="SELECT u.nam... user" />
+            <marker date="1506009963631" expanded="true" signature="11289:11349" ph="UPDATE user " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Rau-bot/src/main/java/bot/model/dto/UserDetailsDto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <element signature="e#482#483#0" expanded="true" />
+            <element signature="e#513#514#0" expanded="true" />
+            <element signature="e#561#562#0" expanded="true" />
+            <element signature="e#601#602#0" expanded="true" />
+            <element signature="e#636#637#0" expanded="true" />
+            <element signature="e#667#668#0" expanded="true" />
+            <element signature="e#715#716#0" expanded="true" />
+            <element signature="e#755#756#0" expanded="true" />
+            <element signature="e#790#791#0" expanded="true" />
+            <element signature="e#821#822#0" expanded="true" />
+            <element signature="e#869#870#0" expanded="true" />
+            <element signature="e#909#910#0" expanded="true" />
+            <element signature="e#945#946#0" expanded="true" />
+            <element signature="e#976#977#0" expanded="true" />
+            <element signature="e#1025#1026#0" expanded="true" />
+            <element signature="e#1065#1066#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Rau-bot/src/main/java/bot/model/dto/UserDto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="e#1157#1158#0" expanded="true" />
+            <element signature="e#1184#1185#0" expanded="true" />
+            <element signature="e#1224#1225#0" expanded="true" />
+            <element signature="e#1256#1257#0" expanded="true" />
+            <element signature="e#1292#1293#0" expanded="true" />
+            <element signature="e#1324#1325#0" expanded="true" />
+            <element signature="e#1374#1375#0" expanded="true" />
+            <element signature="e#1416#1417#0" expanded="true" />
+            <element signature="e#1453#1454#0" expanded="true" />
+            <element signature="e#1486#1487#0" expanded="true" />
+            <element signature="e#1538#1539#0" expanded="true" />
+            <element signature="e#1582#1583#0" expanded="true" />
+            <element signature="e#1615#1616#0" expanded="true" />
+            <element signature="e#1643#1644#0" expanded="true" />
+            <element signature="e#1686#1687#0" expanded="true" />
+            <element signature="e#1720#1721#0" expanded="true" />
+            <element signature="e#1764#1765#0" expanded="true" />
+            <element signature="e#1804#1805#0" expanded="true" />
+            <element signature="e#1870#1871#0" expanded="true" />
+            <element signature="e#1928#1929#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/8bce2d89/5f6e12c3-faaa-43e5-8273-bcf4b15390bd/raubot.user">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Rau-bot/src/main/resources/raubot.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Rau-bot/src/main/java/bot/model/entity/UserEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Rau-bot/src/main/java/bot/botRau/RAUAssistant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="42" column="70" lean-forward="false" selection-start-line="42" selection-start-column="70" selection-end-line="42" selection-end-column="70" />
+          <folding>
+            <element signature="e#3710#3738#0" expanded="true" />
+            <element signature="e#3812#3834#0" expanded="true" />
+            <element signature="e#9267#9295#0" expanded="true" />
+            <element signature="e#9373#9395#0" expanded="true" />
+            <marker date="1506009963631" expanded="true" signature="2608:2668" ph="UPDATE user " />
+            <marker date="1506009963631" expanded="true" signature="3445:3458" ph="SELECT * FRO... " />
+            <marker date="1506009963631" expanded="true" signature="3445:3468" ph="SELECT * FRO... user" />
+            <marker date="1506009963631" expanded="true" signature="6508:6526" ph="SELECT * FRO... user" />
+            <marker date="1506009963631" expanded="true" signature="6508:6532" ph="SELECT * FRO... user" />
+            <marker date="1506009963631" expanded="true" signature="6508:6540" ph="SELECT * FRO... user" />
+            <marker date="1506009963631" expanded="true" signature="6913:6944" ph="SELECT * FRO... user" />
+            <marker date="1506009963631" expanded="true" signature="6913:6961" ph="SELECT * FRO... user" />
+            <marker date="1506009963631" expanded="true" signature="7746:8091" ph="SELECT u.nam... institute" />
+            <marker date="1506009963631" expanded="true" signature="7746:8147" ph="SELECT u.nam... user" />
+            <marker date="1506009963631" expanded="true" signature="7746:8149" ph="SELECT u.nam... user" />
+            <marker date="1506009963631" expanded="true" signature="7746:8166" ph="SELECT u.nam... user" />
+            <marker date="1506009963631" expanded="true" signature="11289:11349" ph="UPDATE user " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../Rau-bot/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
@@ -720,27 +885,23 @@
         <state relative-caret-position="204">
           <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding>
-            <element signature="e#3434#3462#0" expanded="true" />
-            <element signature="e#3536#3558#0" expanded="true" />
-            <element signature="e#8814#8842#0" expanded="true" />
-            <element signature="e#8920#8942#0" expanded="true" />
-            <element signature="e#12029#12030#0" expanded="true" />
-            <element signature="e#12061#12062#0" expanded="true" />
-            <element signature="e#12110#12111#0" expanded="true" />
-            <element signature="e#12180#12181#0" expanded="true" />
-            <marker date="1505491665146" expanded="true" signature="2332:2392" ph="UPDATE user " />
-            <marker date="1505491665146" expanded="true" signature="3169:3182" ph="SELECT * FRO... " />
-            <marker date="1505491665146" expanded="true" signature="3169:3192" ph="SELECT * FRO... user" />
-            <marker date="1505491665146" expanded="true" signature="6055:6073" ph="SELECT * FRO... user" />
-            <marker date="1505491665146" expanded="true" signature="6055:6079" ph="SELECT * FRO... user" />
-            <marker date="1505491665146" expanded="true" signature="6055:6087" ph="SELECT * FRO... user" />
-            <marker date="1505491665146" expanded="true" signature="6460:6491" ph="SELECT * FRO... user" />
-            <marker date="1505491665146" expanded="true" signature="6460:6508" ph="SELECT * FRO... user" />
-            <marker date="1505491665146" expanded="true" signature="7293:7638" ph="SELECT u.nam... institute" />
-            <marker date="1505491665146" expanded="true" signature="7293:7694" ph="SELECT u.nam... user" />
-            <marker date="1505491665146" expanded="true" signature="7293:7696" ph="SELECT u.nam... user" />
-            <marker date="1505491665146" expanded="true" signature="7293:7713" ph="SELECT u.nam... user" />
-            <marker date="1505491665146" expanded="true" signature="10836:10896" ph="UPDATE user " />
+            <element signature="e#3710#3738#0" expanded="true" />
+            <element signature="e#3812#3834#0" expanded="true" />
+            <element signature="e#9267#9295#0" expanded="true" />
+            <element signature="e#9373#9395#0" expanded="true" />
+            <marker date="1506009963631" expanded="true" signature="2608:2668" ph="UPDATE user " />
+            <marker date="1506009963631" expanded="true" signature="3445:3458" ph="SELECT * FRO... " />
+            <marker date="1506009963631" expanded="true" signature="3445:3468" ph="SELECT * FRO... user" />
+            <marker date="1506009963631" expanded="true" signature="6508:6526" ph="SELECT * FRO... user" />
+            <marker date="1506009963631" expanded="true" signature="6508:6532" ph="SELECT * FRO... user" />
+            <marker date="1506009963631" expanded="true" signature="6508:6540" ph="SELECT * FRO... user" />
+            <marker date="1506009963631" expanded="true" signature="6913:6944" ph="SELECT * FRO... user" />
+            <marker date="1506009963631" expanded="true" signature="6913:6961" ph="SELECT * FRO... user" />
+            <marker date="1506009963631" expanded="true" signature="7746:8091" ph="SELECT u.nam... institute" />
+            <marker date="1506009963631" expanded="true" signature="7746:8147" ph="SELECT u.nam... user" />
+            <marker date="1506009963631" expanded="true" signature="7746:8149" ph="SELECT u.nam... user" />
+            <marker date="1506009963631" expanded="true" signature="7746:8166" ph="SELECT u.nam... user" />
+            <marker date="1506009963631" expanded="true" signature="11289:11349" ph="UPDATE user " />
           </folding>
         </state>
       </provider>
@@ -749,7 +910,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="43" lean-forward="false" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -757,7 +917,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -765,19 +924,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-          <folding>
-            <element signature="e#225#226#0" expanded="false" />
-            <element signature="e#259#260#0" expanded="false" />
-            <element signature="e#287#288#0" expanded="false" />
-            <element signature="e#318#319#0" expanded="false" />
-            <element signature="e#345#346#0" expanded="false" />
-            <element signature="e#385#386#0" expanded="false" />
-            <element signature="e#417#418#0" expanded="false" />
-            <element signature="e#449#450#0" expanded="false" />
-            <element signature="e#479#480#0" expanded="false" />
-            <element signature="e#523#524#0" expanded="false" />
-            <element signature="e#561#562#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -801,14 +947,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Rau-bot/src/main/resources/Rau_bot_mysql_create.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="22" column="25" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../Rau-bot/src/main/resources/Rau_bot_mysql_create.sql" />
     <entry file="das://table:/8bce2d89/5f6e12c3-faaa-43e5-8273-bcf4b15390bd/raubot.weekday">
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
@@ -827,7 +966,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -835,7 +973,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -843,7 +980,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="70" lean-forward="false" selection-start-line="15" selection-start-column="70" selection-end-line="15" selection-end-column="70" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -855,19 +991,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Rau-bot/src/main/java/admin/controller/MainController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../Rau-bot/src/main/java/admin/controller/MainController.java" />
     <entry file="file://$PROJECT_DIR$/../Rau-bot/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="515">
           <caret line="89" column="51" lean-forward="false" selection-start-line="89" selection-start-column="51" selection-end-line="89" selection-end-column="51" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -950,7 +1078,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1004,8 +1131,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../Rau-bot/src/main/resources/raubot.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3145">
-          <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="28" />
+        <state relative-caret-position="68">
+          <caret line="4" column="21" lean-forward="false" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="28" />
           <folding />
         </state>
       </provider>
@@ -1046,7 +1173,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="126" column="27" lean-forward="false" selection-start-line="126" selection-start-column="27" selection-end-line="126" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1054,65 +1180,60 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="57" column="25" lean-forward="false" selection-start-line="57" selection-start-column="25" selection-end-line="57" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../Rau-bot/src/main/java/bot/model/dto/UserDto.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state relative-caret-position="187">
+          <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
           <folding>
-            <element signature="e#1127#1128#0" expanded="true" />
-            <element signature="e#1154#1155#0" expanded="true" />
-            <element signature="e#1194#1195#0" expanded="true" />
-            <element signature="e#1226#1227#0" expanded="true" />
-            <element signature="e#1262#1263#0" expanded="true" />
-            <element signature="e#1294#1295#0" expanded="true" />
-            <element signature="e#1344#1345#0" expanded="true" />
-            <element signature="e#1386#1387#0" expanded="true" />
-            <element signature="e#1423#1424#0" expanded="true" />
-            <element signature="e#1456#1457#0" expanded="true" />
-            <element signature="e#1508#1509#0" expanded="true" />
-            <element signature="e#1552#1553#0" expanded="true" />
-            <element signature="e#1585#1586#0" expanded="true" />
-            <element signature="e#1613#1614#0" expanded="true" />
-            <element signature="e#1656#1657#0" expanded="true" />
-            <element signature="e#1690#1691#0" expanded="true" />
-            <element signature="e#1734#1735#0" expanded="true" />
-            <element signature="e#1774#1775#0" expanded="true" />
-            <element signature="e#1840#1841#0" expanded="true" />
-            <element signature="e#1898#1899#0" expanded="true" />
+            <element signature="e#1157#1158#0" expanded="true" />
+            <element signature="e#1184#1185#0" expanded="true" />
+            <element signature="e#1224#1225#0" expanded="true" />
+            <element signature="e#1256#1257#0" expanded="true" />
+            <element signature="e#1292#1293#0" expanded="true" />
+            <element signature="e#1324#1325#0" expanded="true" />
+            <element signature="e#1374#1375#0" expanded="true" />
+            <element signature="e#1416#1417#0" expanded="true" />
+            <element signature="e#1453#1454#0" expanded="true" />
+            <element signature="e#1486#1487#0" expanded="true" />
+            <element signature="e#1538#1539#0" expanded="true" />
+            <element signature="e#1582#1583#0" expanded="true" />
+            <element signature="e#1615#1616#0" expanded="true" />
+            <element signature="e#1643#1644#0" expanded="true" />
+            <element signature="e#1686#1687#0" expanded="true" />
+            <element signature="e#1720#1721#0" expanded="true" />
+            <element signature="e#1764#1765#0" expanded="true" />
+            <element signature="e#1804#1805#0" expanded="true" />
+            <element signature="e#1870#1871#0" expanded="true" />
+            <element signature="e#1928#1929#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../Rau-bot/src/main/java/bot/botRau/RAUAssistant.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="29" column="36" lean-forward="false" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
+        <state relative-caret-position="184">
+          <caret line="102" column="33" lean-forward="false" selection-start-line="102" selection-start-column="33" selection-end-line="102" selection-end-column="33" />
           <folding>
-            <element signature="e#3434#3462#0" expanded="true" />
-            <element signature="e#3536#3558#0" expanded="true" />
-            <element signature="e#8814#8842#0" expanded="true" />
-            <element signature="e#8920#8942#0" expanded="true" />
-            <element signature="e#12029#12030#0" expanded="true" />
-            <element signature="e#12061#12062#0" expanded="true" />
-            <element signature="e#12110#12111#0" expanded="true" />
-            <element signature="e#12180#12181#0" expanded="true" />
-            <marker date="1505491665146" expanded="true" signature="2332:2392" ph="UPDATE user " />
-            <marker date="1505491665146" expanded="true" signature="3169:3182" ph="SELECT * FRO... " />
-            <marker date="1505491665146" expanded="true" signature="3169:3192" ph="SELECT * FRO... user" />
-            <marker date="1505491665146" expanded="true" signature="6055:6073" ph="SELECT * FRO... user" />
-            <marker date="1505491665146" expanded="true" signature="6055:6079" ph="SELECT * FRO... user" />
-            <marker date="1505491665146" expanded="true" signature="6055:6087" ph="SELECT * FRO... user" />
-            <marker date="1505491665146" expanded="true" signature="6460:6491" ph="SELECT * FRO... user" />
-            <marker date="1505491665146" expanded="true" signature="6460:6508" ph="SELECT * FRO... user" />
-            <marker date="1505491665146" expanded="true" signature="7293:7638" ph="SELECT u.nam... institute" />
-            <marker date="1505491665146" expanded="true" signature="7293:7694" ph="SELECT u.nam... user" />
-            <marker date="1505491665146" expanded="true" signature="7293:7696" ph="SELECT u.nam... user" />
-            <marker date="1505491665146" expanded="true" signature="7293:7713" ph="SELECT u.nam... user" />
-            <marker date="1505491665146" expanded="true" signature="10836:10896" ph="UPDATE user " />
+            <element signature="e#3710#3738#0" expanded="true" />
+            <element signature="e#3812#3834#0" expanded="true" />
+            <element signature="e#9267#9295#0" expanded="true" />
+            <element signature="e#9373#9395#0" expanded="true" />
+            <marker date="1506009963631" expanded="true" signature="2608:2668" ph="UPDATE user " />
+            <marker date="1506009963631" expanded="true" signature="3445:3458" ph="SELECT * FRO... " />
+            <marker date="1506009963631" expanded="true" signature="3445:3468" ph="SELECT * FRO... user" />
+            <marker date="1506009963631" expanded="true" signature="6508:6526" ph="SELECT * FRO... user" />
+            <marker date="1506009963631" expanded="true" signature="6508:6532" ph="SELECT * FRO... user" />
+            <marker date="1506009963631" expanded="true" signature="6508:6540" ph="SELECT * FRO... user" />
+            <marker date="1506009963631" expanded="true" signature="6913:6944" ph="SELECT * FRO... user" />
+            <marker date="1506009963631" expanded="true" signature="6913:6961" ph="SELECT * FRO... user" />
+            <marker date="1506009963631" expanded="true" signature="7746:8091" ph="SELECT u.nam... institute" />
+            <marker date="1506009963631" expanded="true" signature="7746:8147" ph="SELECT u.nam... user" />
+            <marker date="1506009963631" expanded="true" signature="7746:8149" ph="SELECT u.nam... user" />
+            <marker date="1506009963631" expanded="true" signature="7746:8166" ph="SELECT u.nam... user" />
+            <marker date="1506009963631" expanded="true" signature="11289:11349" ph="UPDATE user " />
           </folding>
         </state>
       </provider>

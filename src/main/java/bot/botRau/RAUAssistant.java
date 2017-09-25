@@ -100,6 +100,7 @@ public class RAUAssistant extends TelegramLongPollingBot {
                         sendMessage.setText("Let's register you\nChoose your institute");
                         sendMessage.setReplyMarkup(markup);
                         sendMessage.setChatId(update.getCallbackQuery().getMessage().getChatId());
+                        putInMap();
                         userMap.put(update.getCallbackQuery().getMessage().getChatId(),"Select institute");
                         sendMessage(sendMessage);
                     } catch (TelegramApiException | SQLException e) {
@@ -117,7 +118,12 @@ public class RAUAssistant extends TelegramLongPollingBot {
 
             }
         } else if (messageNotEmpty) {
-            String lastQuestionTopic = userMap.putIfAbsent(update.getMessage().getChatId(), null);
+            UserDto userDto = userMap.get(update.getMessage().getChatId());
+            if(userDto==null){
+                userMap.put(update.getMessage().getChatId(),new UserDto());
+            }
+            String lastQuestionTopic=null;
+
             String message = update.getMessage().getText();
             String firstName = update.getMessage().getFrom().getFirstName();
             String lastName = update.getMessage().getFrom().getLastName();
@@ -254,6 +260,10 @@ public class RAUAssistant extends TelegramLongPollingBot {
 
         InlineKeyboardMarkup markup = new InlineKeyboardMarkup();*/
         }
+    }
+
+    private void putInMap() {
+
     }
 
     @Override
